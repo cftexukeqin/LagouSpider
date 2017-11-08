@@ -29,5 +29,5 @@ for x in range(1,5):
     print('----'*40)
     print("当前爬取到的是第 %s 页的信息" % x)
     print(infos)
-    print('----' * 40)
+    print('----'*40)
 
